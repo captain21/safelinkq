@@ -25,7 +25,7 @@ if(x=="1"){xxx="/2018/03/4-documents-required-to-quote-pcb.html"}
 if(x=="2"){xxx="/2018/03/rf-pcb-transmission-line-width.html"}
 if(x=="3"){xxx="/2018/03/how-to-generate-gerber-files-based-on.html"}
 if(x=="4"){xxx="/2018/03/the-importance-of-gerber-files-for.html"}
-if(x=="5"){xxx="/2018/03/find-and-delete-powerpoints-pcb-file.html"}a_to_ve[i].href="http://www.pcbfiles.tk"+xxx+"?url="+ encryptedUrl;a_to_ve[i].rel="nofollow";a_to_vb++;a_to_vc+=i+":::"+ a_to_ve[i].href+"\n";}}
+if(x=="5"){xxx="/2018/03/find-and-delete-powerpoints-pcb-file.html"}a_to_ve[i].href="http://www.erp-software-on-cloud.review"+xxx+"?url="+ encryptedUrl;a_to_ve[i].rel="nofollow";a_to_vb++;a_to_vc+=i+":::"+ a_to_ve[i].href+"\n";}}
 var a_to_vj=document.getElementById("anonyminized");var a_to_vk=document.getElementById("found_links");if(a_to_vj)
 {a_to_vj.innerHTML+=a_to_vb;}
 if(a_to_vk)
